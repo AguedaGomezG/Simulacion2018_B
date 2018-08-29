@@ -9,7 +9,7 @@ def print_words(sentence):
         print(end = ' ')
 sentence1 = 'Hola, bienvenida o bienvenido a simulación matemática.'
 print_words(sentence1)
-sentence2 = 'Me puedes llamar Alice y me gustaría saber un poco acerca de ti, por ejemplo'
+sentence2 = 'Me puedes llamar Michel y me gustaría saber un poco acerca de ti, por ejemplo'
 print_words(sentence2)
 sentence3 = '¿Cuál es tu nombre?'
 print_words(sentence3)
